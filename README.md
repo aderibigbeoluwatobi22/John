@@ -4,7 +4,7 @@ Data Analyst
 
 I am Data Analyst skilled in Power BI, Excel, Tableau, and SQL.
 
-Skills
+Skills:
 Power BI
 Microsoft Excel
 Tableau
@@ -15,9 +15,9 @@ KPI Reporting
 Dashboard Development
 Projects
 
-Education
+Education:
 B.ENG. Mecahanical Engineering
 
-Contacts
+
 LinkedIn: https://www.linkedin.com/in/john-aderibigbe-195983406
 Email: aderibigbeoluwatobi22@gmail.com
