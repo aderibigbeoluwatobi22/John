@@ -34,9 +34,11 @@ Developed an interactive Power BI dashboard to analyze Christmas sales performan
 
 ## Key Insights:
 
-Identified top-performing products during the Christmas sales period.
-Analyzed monthly and category-level sales trends.
-Tracked key revenue and performance metrics using interactive visualizations.
+-Identified top-performing products during the Christmas sales period.
+
+-Analyzed monthly and category-level sales trends.
+
+-Tracked key revenue and performance metrics using interactive visualizations.
 
 
 
