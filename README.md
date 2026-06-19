@@ -30,6 +30,18 @@ I am a Data Analyst with experience in data cleaning, dashboard development, KPI
 
 Developed an interactive Power BI dashboard to analyze Christmas sales performance. Tracked revenue trends, product performance, and key sales metrics to support business decision-making during the holiday season.
 
+## Tools Used: Power BI, Excel
+
+## Key Insights:
+
+Identified top-performing products during the Christmas sales period.
+Analyzed monthly and category-level sales trends.
+Tracked key revenue and performance metrics using interactive visualizations.
+
+
+
+
+
 ![Christmas Sales Dashboard](christmas-sales-dashboard.png)
 
 ## COVID-19 Global Summary Dashboard (Tableau)
