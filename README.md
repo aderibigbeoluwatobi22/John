@@ -9,12 +9,19 @@ I am a Data Analyst with experience in data cleaning, dashboard development, KPI
 Skills:
 
 Power BI
+
 Microsoft Excel
+
 Tableau
+
 SQL
+
 Data Cleaning
+
 Data Visualization
+
 KPI Reporting
+
 Dashboard Development
 
 Professional Experience:
@@ -37,5 +44,5 @@ B.Eng. Mechanical Engineering
 
 Contact
  - Email: <aderibigbeoluwatobi22@gmail.com>
-LinkedIn: [John Aderibigbe](https://www.linkedin.com/in/john-aderibigbe-195983406)
+LinkedIn: <https://www.linkedin.com/in/john-aderibigbe-195983406>
 
