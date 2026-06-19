@@ -1,6 +1,6 @@
 # John Aderibigbe
 
-## Data Analyst
+## Data Analyst | Power BI | Tableau | Excel | SQL
 
 ## About Me
 
