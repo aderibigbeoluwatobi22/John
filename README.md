@@ -1,5 +1,3 @@
-# Johnaderibigbe.github.io
-
 Data Analyst
 
 I am Data Analyst skilled in Power BI, Excel, Tableau, and SQL.
