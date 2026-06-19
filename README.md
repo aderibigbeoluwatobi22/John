@@ -1,4 +1,4 @@
-## John Aderibigbe
+# John Aderibigbe
 
 ## Data Analyst
 
@@ -14,7 +14,7 @@ I am a Data Analyst with experience in data cleaning, dashboard development, KPI
 
 -Tableau
 
--SQL
+- Basic SQL
 
 -Data Cleaning
 
@@ -26,15 +26,15 @@ I am a Data Analyst with experience in data cleaning, dashboard development, KPI
 
 ## Featured Projects:
 
-# Christmas Sales Report Analysis (Power BI)
+## Christmas Sales Report Analysis (Power BI)
 
 Developed an interactive Power BI dashboard to analyze Christmas sales performance. Tracked revenue trends, product performance, and key sales metrics to support business decision-making during the holiday season.
 
-# COVID-19 Global Summary Dashboard (Tableau)
+## COVID-19 Global Summary Dashboard (Tableau)
 
 Designed a Tableau dashboard to visualize COVID-19 statistics across continents. Analyzed confirmed cases, recoveries, and deaths to identify global trends and regional differences.
 
-# HR Analytics Dashboard (Tableau)
+## HR Analytics Dashboard (Tableau)
 
 Built an HR dashboard to monitor workforce metrics, employee demographics, and organizational trends. Created visualizations to support data-driven HR decision-making.
 
