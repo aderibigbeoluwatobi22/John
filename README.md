@@ -14,7 +14,7 @@ I am a Data Analyst with experience in data cleaning, dashboard development, KPI
 
 -Tableau
 
-- Basic SQL
+-SQL
 
 -Data Cleaning
 
