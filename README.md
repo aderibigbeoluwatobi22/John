@@ -40,21 +40,37 @@ Developed an interactive Power BI dashboard to analyze Christmas sales performan
 
 -Tracked key revenue and performance metrics using interactive visualizations.
 
-
-
-
-
 ![Christmas Sales Dashboard](christmas-sales-dashboard.png)
 
 ## COVID-19 Global Summary Dashboard (Tableau)
 
 Designed a Tableau dashboard to visualize COVID-19 statistics across continents. Analyzed confirmed cases, recoveries, and deaths to identify global trends and regional differences.
 
+## Tools Used: Power BI, Excel
+
+## Key Insights:
+
+-Identified top-performing products during the Christmas sales period.
+
+-Analyzed monthly and category-level sales trends.
+
+-Tracked key revenue and performance metrics using interactive visualizations.
+
 ![COVID-19 Dashboard](covid19-dashboard.png)
 
 ## HR Analytics Dashboard (Tableau)
 
 Built an HR dashboard to monitor workforce metrics, employee demographics, and organizational trends. Created visualizations to support data-driven HR decision-making.
+
+## Tools Used: Tableau, Excel
+
+## Key Insights:
+
+-Analyzed workforce demographics and employee distribution.
+
+-Monitored key HR metrics through interactive dashboards.
+
+-Identified trends that could support workforce planning and decision-making.
 
 ![HR Analysis Dashboard](hr-analysis-dashboard.png)
 
