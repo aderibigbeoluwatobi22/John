@@ -24,7 +24,7 @@ I am a Data Analyst with experience in data cleaning, dashboard development, KPI
 
 -Dashboard Development
 
--Professional Experience:
+## Professional Experience:
 
 -Collected, cleaned, and validated operational datasets.
 
