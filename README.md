@@ -50,11 +50,11 @@ Designed a Tableau dashboard to visualize COVID-19 statistics across continents.
 
 ## Key Insights:
 
--Identified top-performing products during the Christmas sales period.
+-Compared COVID-19 trends across continents.
 
--Analyzed monthly and category-level sales trends.
+-Visualized differences in confirmed cases, recoveries, and deaths.
 
--Tracked key revenue and performance metrics using interactive visualizations.
+-Identified regional patterns and variations in pandemic impact.
 
 ![COVID-19 Dashboard](covid19-dashboard.png)
 
