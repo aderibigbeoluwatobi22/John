@@ -42,6 +42,9 @@ Developed an interactive Power BI dashboard to analyze Christmas sales performan
 
 ![Christmas Sales Dashboard](christmas-sales-dashboard.png)
 
+
+
+
 ## COVID-19 Global Summary Dashboard (Tableau)
 
 Designed a Tableau dashboard to visualize COVID-19 statistics across continents. Analyzed confirmed cases, recoveries, and deaths to identify global trends and regional differences.
@@ -57,6 +60,9 @@ Designed a Tableau dashboard to visualize COVID-19 statistics across continents.
 -Identified regional patterns and variations in pandemic impact.
 
 ![COVID-19 Dashboard](covid19-dashboard.png)
+
+
+
 
 ## HR Analytics Dashboard (Tableau)
 
