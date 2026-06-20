@@ -76,23 +76,43 @@ Built an HR dashboard to monitor workforce metrics, employee demographics, and o
 
 ## Professional Experience:
 
--Collected, cleaned, and validated operational datasets.
+## February 2025-May 2026
 
--Developed Power BI dashboards and KPI reports.
+## Data Analyst | Mobt6 Global Ltd, Akure. 
 
--Analyzed trends and patterns to identify business opportunities.
+-	Collected, cleaned, and validated operational datasets.
+  
+-	Developed Power BI dashboards and KPI reports.
+  
+-	Analyzed trends and patterns to identify business opportunities.
+  
+-	Automated reporting processes using Excel.
+  
+- Collaborated with stakeholders to deliver actionable insights.
+- 
+-	Supported SQL-based data extraction and validation activities.
 
--Automated reporting processes using Excel.
+## February 2023—July 2024
 
--Collaborated with stakeholders to deliver actionable insights.
+## Junior Data Analyst | Mebha International Limited, Lagos.
 
--Supported SQL-based data extraction and validation activities.
+-	Gathered, organized and analyzed operational data.
+	
+-	Maintained Excel databases and dashboards.
+	
+-	Produced reports and visualizations for management.
+  
+-	Performed trend analysis and data validation.
+  
+-	Supported process improvement through data- driven recommendations.
 
 ## Education:
 
 B.Eng. Mechanical Engineering
 
-## Contact
+## Contact:
+
 Email: <aderibigbeoluwatobi22@gmail.com>
+
 LinkedIn: <https://www.linkedin.com/in/john-aderibigbe-195983406>
 
