@@ -89,7 +89,7 @@ Built an HR dashboard to monitor workforce metrics, employee demographics, and o
 -	Automated reporting processes using Excel.
   
 - Collaborated with stakeholders to deliver actionable insights.
-- 
+  
 -	Supported SQL-based data extraction and validation activities.
 
 ## February 2023—July 2024
