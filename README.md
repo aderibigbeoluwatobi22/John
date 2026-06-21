@@ -112,6 +112,8 @@ This dashboard helps businesses monitor sales performance, identify profitable c
 
 ## Bike Sales Dashboard (Microsoft Excel)
 
+![Bike Sales Dashboard](bike-sales-dashboard.png)
+
 ## Portfolio Description:
 
 Developed an interactive Bike Sales Dashboard in Microsoft Excel to analyze customer purchasing behavior across different demographics, occupations, commuting distances, and education levels. The dashboard enables users to filter and explore key factors influencing bike purchase decisions.
