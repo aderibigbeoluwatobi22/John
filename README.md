@@ -1,24 +1,24 @@
-## About Me
+## Professional Summary
 
 I am a Data Analyst with experience in data cleaning, dashboard development, KPI reporting, and business intelligence. I use Power BI, Excel, Tableau, and SQL to transform data into actionable insights.
 
 ## Skills:
 
--Power BI
+- Power BI
 
--Microsoft Excel
+- Microsoft Excel
 
--Tableau
+- Tableau
 
--SQL
+- SQL
 
--Data Cleaning
+- Data Cleaning
 
--Data Visualization
+- Data Visualization
 
--KPI Reporting
+- KPI Reporting
 
--Dashboard Development
+- Dashboard Development
 
 ## Data Analytics Projects:
 
