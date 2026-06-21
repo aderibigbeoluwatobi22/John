@@ -1,3 +1,7 @@
+# John Aderibigbe
+
+### Data Analyst | Power BI | Excel | Tableau | SQL
+
 ## Professional Summary
 
 I am a Data Analyst with experience in data cleaning, dashboard development, KPI reporting, and business intelligence. I use Power BI, Excel, Tableau, and SQL to transform data into actionable insights.
