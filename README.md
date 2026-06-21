@@ -26,7 +26,7 @@ I am a Data Analyst with experience in data cleaning, dashboard development, KPI
 
 ## Data Analytics Projects:
 
-## HR Analytics Dashboard (Tableau)
+ ## Project 1: HR Analytics Dashboard (Tableau)
 
 ![HR Analysis Dashboard](hr-analysis-dashboard.png)
 
@@ -66,7 +66,7 @@ Developed an interactive HR Analytics Dashboard in Tableau to analyze employee a
 
 This dashboard helps HR departments monitor employee turnover, identify high-risk areas of attrition, understand workforce demographics, and support strategic decisions aimed at improving employee retention and organizational performance.
 
-## Christmas Sales Report Analysis (Power BI)
+##  Project 2: Christmas Sales Report Analysis (Power BI)
 
 ![Christmas Sales Dashboard](christmas-sales-dashboard.png)
 
@@ -110,7 +110,7 @@ Developed an interactive Christmas Gift Sales Dashboard in Power BI to analyze s
 
 This dashboard helps businesses monitor sales performance, identify profitable customer segments, evaluate product demand, and optimize marketing and inventory strategies during peak holiday seasons.
 
-## Bike Sales Dashboard (Microsoft Excel)
+## Project 3: Bike Sales Dashboard (Microsoft Excel)
 
 ![Bike Sales Dashboard](bike-sales-dashboard.png)
 
@@ -148,7 +148,7 @@ Developed an interactive Bike Sales Dashboard in Microsoft Excel to analyze cust
 
 The dashboard helps businesses identify target customer segments, understand purchasing patterns, and make data-driven marketing decisions to improve bike sales performance.
 
-## COVID-19 Global Summary Dashboard (Tableau)
+## Project 4: COVID-19 Global Summary Dashboard (Tableau)
 
 ![COVID-19 Dashboard](covid19-dashboard.png)
 
