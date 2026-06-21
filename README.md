@@ -230,6 +230,6 @@ B.Eng. Mechanical Engineering
 
 💼 LinkedIn: <https://www.linkedin.com/in/john-aderibigbe-195983406>
 
-💻 GitHub: https://github.com/aderibigbeoluwatobi22
+💻 GitHub:  [GitHub Profile](https://github.com/aderibigbeoluwatobi22)
 
-🌐 Portfolio: https://aderibigbeoluwatobi22.github.io/John/
+🌐 Portfolio: [My Portfolio](https://aderibigbeoluwatobi22.github.io/John/)
