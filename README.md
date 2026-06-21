@@ -1,5 +1,3 @@
-# John Aderibigbe
-
 ## Data Analyst | Power BI | Tableau | Excel | SQL
 
 ## About Me
@@ -24,61 +22,167 @@ I am a Data Analyst with experience in data cleaning, dashboard development, KPI
 
 -Dashboard Development
 
-## Featured Projects:
-
-## Christmas Sales Report Analysis (Power BI)
-
-Developed an interactive Power BI dashboard to analyze Christmas sales performance. Tracked revenue trends, product performance, and key sales metrics to support business decision-making during the holiday season.
-
-## Tools Used: Power BI, Excel
-
-## Key Insights:
-
--Identified top-performing products during the Christmas sales period.
-
--Analyzed monthly and category-level sales trends.
-
--Tracked key revenue and performance metrics using interactive visualizations.
-
-![Christmas Sales Dashboard](christmas-sales-dashboard.png)
-
-
-
-
-## COVID-19 Global Summary Dashboard (Tableau)
-
-Designed a Tableau dashboard to visualize COVID-19 statistics across continents. Analyzed confirmed cases, recoveries, and deaths to identify global trends and regional differences.
-
-## Tools Used: Power BI, Excel
-
-## Key Insights:
-
--Compared COVID-19 trends across continents.
-
--Visualized differences in confirmed cases, recoveries, and deaths.
-
--Identified regional patterns and variations in pandemic impact.
-
-![COVID-19 Dashboard](covid19-dashboard.png)
-
-
-
+## Data Analytics Projects:
 
 ## HR Analytics Dashboard (Tableau)
 
-Built an HR dashboard to monitor workforce metrics, employee demographics, and organizational trends. Created visualizations to support data-driven HR decision-making.
+![HR Analysis Dashboard](hr-analysis-dashboard.png)
 
-## Tools Used: Tableau, Excel
+## Portfolio Description:
+
+Developed an interactive HR Analytics Dashboard in Tableau to analyze employee attrition, workforce demographics, job satisfaction, and departmental trends. The dashboard enables HR teams and business leaders to monitor workforce performance, identify retention challenges, and support data-driven human resource decisions.
+
+## Tools Used:
+
+- Tableau
+
+- Data Cleaning
+
+- Data Visualization
+
+- Interactive Filters
+
+- Dashboard Design
+
+- HR Analytics
 
 ## Key Insights:
 
--Analyzed workforce demographics and employee distribution.
+- The organization recorded a total workforce of 1,470 employees.
 
--Monitored key HR metrics through interactive dashboards.
+- The overall employee attrition rate was 16%, with 237 employees leaving the organization.
 
--Identified trends that could support workforce planning and decision-making.
+- Research & Development experienced the highest attrition count, followed by Sales, while Human Resources recorded the lowest attrition.
 
-![HR Analysis Dashboard](hr-analysis-dashboard.png)
+- Employees aged 25–34 represented the largest workforce segment across both genders.
+
+- Life Sciences and Medical education backgrounds contributed the highest number of employee attrition cases.
+
+- Job satisfaction levels varied across job roles, highlighting opportunities to improve employee engagement and retention.
+
+## Business Value: 
+
+This dashboard helps HR departments monitor employee turnover, identify high-risk areas of attrition, understand workforce demographics, and support strategic decisions aimed at improving employee retention and organizational performance.
+
+## Christmas Sales Report Analysis (Power BI)
+
+![Christmas Sales Dashboard](christmas-sales-dashboard.png)
+
+## Portfolio Description:
+
+Developed an interactive Christmas Gift Sales Dashboard in Power BI to analyze sales performance, profitability, customer segments, product performance, and purchasing behavior during the holiday season. The dashboard provides key business insights through KPI tracking, trend analysis, and interactive filtering capabilities.
+
+## Tools Used:
+
+- Power BI
+
+- Power Query
+
+- Data Cleaning
+
+- Data Modeling
+
+- DAX
+
+- Data Visualization
+
+- Dashboard Development
+
+## Key Insights:
+
+- The business generated total sales of 29 million with a total profit of 21.94 million.
+
+- In-store purchases contributed the highest profit compared to online and marketplace channels.
+
+- Adult customers represented the largest customer segment by profit contribution.
+
+- Profit contribution was nearly evenly distributed between male and female customers.
+
+- December recorded the highest order volume, reflecting increased holiday shopping activity.
+
+- Barbie Doll, Hot Wheels Car Set, LEGO Star Wars Set, and Harry Potter Puzzle ranked among the top-selling products.
+
+- Sales activity remained relatively consistent across the days of the week, indicating steady customer demand.
+
+## Business Value:
+
+This dashboard helps businesses monitor sales performance, identify profitable customer segments, evaluate product demand, and optimize marketing and inventory strategies during peak holiday seasons.
+
+## Bike Sales Dashboard (Microsoft Excel)
+
+## Portfolio Description:
+
+Developed an interactive Bike Sales Dashboard in Microsoft Excel to analyze customer purchasing behavior across different demographics, occupations, commuting distances, and education levels. The dashboard enables users to filter and explore key factors influencing bike purchase decisions.
+
+## Tools Used:
+
+- Microsoft Excel
+
+- Pivot Tables
+
+- Pivot Charts
+
+- Slicers
+
+- Data Cleaning
+
+## Key Insights:
+
+- Male customers purchased more bikes than female customers.
+
+- Adults and young adults accounted for the largest share of bike purchases.
+
+- Customers in professional and skilled manual occupations showed higher bike purchase rates.
+
+- Single customers demonstrated a slightly higher bike purchase rate compared to married customers.
+
+- Customers living shorter commuting distances showed stronger bike purchase activity than those traveling longer distances.
+
+- Occupation, age group, and commuting distance appeared to influence bike purchasing decisions significantly.
+
+## Business Value:
+
+The dashboard helps businesses identify target customer segments, understand purchasing patterns, and make data-driven marketing decisions to improve bike sales performance.
+
+## COVID-19 Global Summary Dashboard (Tableau)
+
+![COVID-19 Dashboard](covid19-dashboard.png)
+
+## Portfolio Description:
+
+Developed an interactive COVID-19 Summary Dashboard in Tableau to monitor confirmed cases, deaths, and recoveries across countries and continents. The dashboard provides geographic and comparative visualizations that enable users to analyze the global impact of the pandemic and identify regional trends.
+
+## Tools Used: 
+
+- Tableau
+
+- Data Cleaning
+
+- Data Visualization
+
+- Interactive Filters
+
+- Geographic Mapping
+
+- Dashboard Design
+
+## Key Insights:
+
+- Over 9.35 billion confirmed COVID-19 cases were recorded in the dataset.
+
+- Total recoveries exceeded 5.69 billion, indicating significant recovery levels globally.
+
+- The United States recorded the highest number of confirmed cases.
+
+- The United States also reported the highest number of COVID-19 related deaths.
+
+- India recorded the highest number of recoveries among the countries displayed.
+
+- North America, Asia, and South America were among the most impacted regions based on case volumes.
+
+## Business Value:
+
+This dashboard provides stakeholders with a centralized view of global COVID-19 trends, helping users compare the impact of the pandemic across regions and support data-driven public health analysis.
 
 ## Professional Experience:
 
