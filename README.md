@@ -226,7 +226,10 @@ B.Eng. Mechanical Engineering
 
 ## Contact:
 
-Email: <aderibigbeoluwatobi22@gmail.com>
+📧 Email: <aderibigbeoluwatobi22@gmail.com>
 
-LinkedIn: <https://www.linkedin.com/in/john-aderibigbe-195983406>
+💼 LinkedIn: <https://www.linkedin.com/in/john-aderibigbe-195983406>
 
+💻 GitHub: https://github.com/aderibigbeoluwatobi22
+
+🌐 Portfolio: https://aderibigbeoluwatobi22.github.io/John/
