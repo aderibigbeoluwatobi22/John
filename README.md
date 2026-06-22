@@ -226,7 +226,7 @@ This dashboard provides stakeholders with a centralized view of global COVID-19 
 
 ## Education:
 
-B.Eng. Mechanical Engineering - Ekiti State University
+B.Eng. Mechanical Engineering - Ekiti State University.
 
 ## Contact:
 
