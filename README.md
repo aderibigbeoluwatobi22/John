@@ -224,6 +224,10 @@ This dashboard provides stakeholders with a centralized view of global COVID-19 
 
 - Contributed to process improvement initiatives through data-driven recommendations
 
+## Certification:
+
+Data Analysis Certification - New Horizons, Ado-Ekiti (December 2024).
+
 ## Education:
 
 B.Eng. Mechanical Engineering - Ekiti State University.
