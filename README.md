@@ -210,7 +210,7 @@ This dashboard provides stakeholders with a centralized view of global COVID-19 
   
 -	Supported SQL-based data extraction and validation activities.
 
-## February 2023 — August 2024
+## February 2023 - August 2024
 
 ## Junior Data Analyst | Mebha International Limited, Lagos.
 
