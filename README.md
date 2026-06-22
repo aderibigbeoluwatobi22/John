@@ -6,6 +6,10 @@
 
 I am a Data Analyst with experience in data cleaning, dashboard development, KPI reporting, and business intelligence. I use Power BI, Excel, Tableau, and SQL to transform data into actionable insights.
 
+## Resume
+
+📄 [Download My CV](./John_Aderibigbe_Data_Analyst_CV.pdf)
+
 ## Skills:
 
 - Power BI
