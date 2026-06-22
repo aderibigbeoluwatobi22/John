@@ -198,35 +198,35 @@ This dashboard provides stakeholders with a centralized view of global COVID-19 
 
 ## Data Analyst | Mobt6 Global Ltd, Akure. 
 
--	Collected, cleaned, and validated operational datasets.
-  
--	Developed Power BI dashboards and KPI reports.
-  
--	Analyzed trends and patterns to identify business opportunities.
-  
--	Automated reporting processes using Excel.
-  
-- Collaborated with stakeholders to deliver actionable insights.
-  
--	Supported SQL-based data extraction and validation activities.
+- Cleaned, validated, and analyzed operational datasets to improve data accuracy and reporting reliability.
+
+- Developed interactive Power BI dashboards and KPI reports to support business performance monitoring.
+
+- Identified trends, patterns, and business opportunities through data analysis.
+
+- Automated recurring reports using Microsoft Excel, improving reporting efficiency.
+
+- Collaborated with stakeholders to deliver actionable insights for decision-making.
+
+- Performed SQL-based data extraction, validation, and reporting support.
 
 ## February 2023 - August 2024
 
 ## Junior Data Analyst | Mebha International Limited, Lagos.
 
--	Gathered, organized and analyzed operational data.
-	
--	Maintained Excel databases and dashboards.
-	
--	Produced reports and visualizations for management.
-  
--	Performed trend analysis and data validation.
-  
--	Supported process improvement through data- driven recommendations.
+- Collected, organized, and analyzed operational data to support business reporting.
+
+- Maintained Excel databases and dashboards for data tracking and performance monitoring.
+
+- Created reports and visualizations to support management decision-making.
+
+- Conducted trend analysis and data validation to ensure data quality.
+
+- Contributed to process improvement initiatives through data-driven recommendations
 
 ## Education:
 
-B.Eng. Mechanical Engineering
+B.Eng. Mechanical Engineering - Ekiti State University
 
 ## Contact:
 
