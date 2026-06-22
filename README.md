@@ -212,7 +212,7 @@ This dashboard provides stakeholders with a centralized view of global COVID-19 
 
 ## February 2023 - August 2024
 
-## Junior Data Analyst | Mebha International Limited, Lagos.
+## Junior Data Analyst | Mebha International Limited, Akure.
 
 - Collected, organized, and analyzed operational data to support business reporting.
 
